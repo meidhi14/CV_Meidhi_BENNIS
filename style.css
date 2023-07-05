@@ -64,6 +64,10 @@ header {
   padding: 15px;
 }
 
+.titreCV {
+  font-size: 18px;
+}
+
 .img1 {
   width: 20%;
   background-color: white;
@@ -171,6 +175,16 @@ header {
   position: absolute;
   top: 50px;
   left: 200px;
+}
+
+.separation4 {
+  background-color: white;
+  height: 2px;
+  width: 595px;
+  padding-top: 0px;
+  position: absolute;
+  top: 50px;
+  left: 300px;
 }
 
 p {
